@@ -95,7 +95,7 @@ export const person = {
   email: "beraatcankahveci@gmail.com",
   phone: "+90 534 259 81 61",
   phoneHref: "tel:+905342598161",
-  site: "beratkahveci.com",
+  site: "beratkahveci.com.tr",
   // Linkler geldiğinde doldurun — boş olanlar sitede görünmez.
   socials: [
     { label: "GitHub", href: "" },

@@ -73,11 +73,11 @@ export default function Navbar({ dict, locale }: NavbarProps) {
           <button
             onClick={() => go("top")}
             className="font-mono text-sm tracking-tight text-fg"
-            aria-label="beratkahveci.com"
+            aria-label="beratkahveci.com.tr"
           >
             ©<span className="font-semibold"> berat</span>
             <span className="text-muted">kahveci</span>
-            <span className="text-accent">.com</span>
+            <span className="text-accent">.com.tr</span>
           </button>
 
           <div className="hidden items-center gap-8 md:flex">
