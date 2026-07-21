@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#0a0a0b"/>
+  <rect x="0.5" y="0.5" width="63" height="63" rx="13.5" fill="none" stroke="#26262b"/>
+  <!-- Geometrik B -->
+  <path fill="#f4f4f2" d="M20 13h8v38h-8z"/>
+  <path fill="#f4f4f2" d="M26 13h7.5a9.25 9.25 0 0 1 0 18.5H26v-7h7.5a2.25 2.25 0 0 0 0-4.5H26z"/>
+  <path fill="#f4f4f2" d="M26 30h9.5a10.5 10.5 0 0 1 0 21H26v-7h9.5a3.5 3.5 0 0 0 0-7H26z"/>
+  <!-- Aksan noktası -->
+  <circle cx="51" cy="47" r="4" fill="#c8f751"/>
+</svg>
