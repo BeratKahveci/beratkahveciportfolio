@@ -170,6 +170,16 @@ const tr: Dict = {
         stack: ["React", "Vite", "GSAP", "ScrollTrigger", "Lenis"],
       },
       {
+        slug: "berat-os",
+        title: "BeratOS",
+        category: "Retro-fütüristik işletim sistemi portfolyosu",
+        role: "Tasarım & Geliştirme",
+        year: "2026",
+        description:
+          "Tamamen şov amaçlı, işletim sistemi gibi çalışan alternatif bir portfolyo. Boot animasyonuyla açılıyor; masaüstü simgeleri, sürüklenebilir pencereler ve gerçek komutlar çalıştıran bir terminalle dosyalar arasında gezinerek keşfediliyor. CRT efektleri ve Three.js sahnesiyle oyun hissi veren bir deneyim.",
+        stack: ["React", "Vite", "Three.js", "GSAP", "Zustand"],
+      },
+      {
         slug: "invatrix",
         title: "Invatrix",
         category: "Hesaplama modülleri içeren web uygulaması",
@@ -368,6 +378,16 @@ const en: Dict = {
         description:
           "An immersive one-page experience narrating a virtual climb to the summit of Everest. Designed and built from scratch with an altitude, temperature and oxygen HUD synced to real elevation data, cinematic camp-by-camp scroll scenes, sound design and TR/EN language support.",
         stack: ["React", "Vite", "GSAP", "ScrollTrigger", "Lenis"],
+      },
+      {
+        slug: "berat-os",
+        title: "BeratOS",
+        category: "Retro-futuristic operating system portfolio",
+        role: "Design & Development",
+        year: "2026",
+        description:
+          "A purely-for-show alternative portfolio that works like an operating system. It boots up with a startup animation and is explored by browsing files — desktop icons, draggable windows and a terminal that runs real commands. CRT effects and a Three.js scene give it the feel of a game.",
+        stack: ["React", "Vite", "Three.js", "GSAP", "Zustand"],
       },
       {
         slug: "invatrix",

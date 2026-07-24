@@ -18,6 +18,8 @@ const GRADIENTS: Record<string, string> = {
     "radial-gradient(130% 130% at 75% 80%, #e8e8df 0%, #6a705a 50%, #15170f 100%)",
   everest:
     "radial-gradient(130% 130% at 50% 15%, #a8cdec 0%, #2e5a8c 45%, #070b12 100%)",
+  "berat-os":
+    "radial-gradient(130% 130% at 30% 20%, #5fffb4 0%, #0f6a4c 50%, #02060a 100%)",
 };
 
 interface Shot {
@@ -49,6 +51,13 @@ const SHOTS: Record<string, Shot[]> = {
       src: "/projects/everest.jpg",
       url: "https://everest-omega-eight.vercel.app",
       domain: "everest-omega-eight.vercel.app",
+    },
+  ],
+  "berat-os": [
+    {
+      src: "/projects/berat-os.jpg",
+      url: "https://berat-os.vercel.app",
+      domain: "berat-os.vercel.app",
     },
   ],
   corporate: [
