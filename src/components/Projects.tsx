@@ -16,6 +16,8 @@ const GRADIENTS: Record<string, string> = {
     "radial-gradient(130% 130% at 25% 85%, #ffb056 0%, #c8425f 50%, #26101a 100%)",
   corporate:
     "radial-gradient(130% 130% at 75% 80%, #e8e8df 0%, #6a705a 50%, #15170f 100%)",
+  everest:
+    "radial-gradient(130% 130% at 50% 15%, #a8cdec 0%, #2e5a8c 45%, #070b12 100%)",
 };
 
 interface Shot {
@@ -40,6 +42,13 @@ const SHOTS: Record<string, Shot[]> = {
       src: "/projects/invatrix.jpg",
       url: "https://invatrix.com",
       domain: "invatrix.com",
+    },
+  ],
+  everest: [
+    {
+      src: "/projects/everest.jpg",
+      url: "https://everest-omega-eight.vercel.app",
+      domain: "everest-omega-eight.vercel.app",
     },
   ],
   corporate: [

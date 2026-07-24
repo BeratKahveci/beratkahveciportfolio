@@ -160,6 +160,16 @@ const tr: Dict = {
         stack: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
       },
       {
+        slug: "everest",
+        title: "Everest",
+        category: "Sinematik scroll deneyimi",
+        role: "Tasarım & Geliştirme",
+        year: "2026",
+        description:
+          "Everest'in zirvesine çıkan sanal bir tırmanışı anlatan immersive tek sayfalık deneyim. Gerçek yükseklik verileriyle senkronize irtifa, sıcaklık ve oksijen göstergesi, kamp kamp ilerleyen sinematik scroll sahneleri, ses tasarımı ve TR/EN dil desteğiyle sıfırdan tasarlayıp kodladım.",
+        stack: ["React", "Vite", "GSAP", "ScrollTrigger", "Lenis"],
+      },
+      {
         slug: "invatrix",
         title: "Invatrix",
         category: "Hesaplama modülleri içeren web uygulaması",
@@ -348,6 +358,16 @@ const en: Dict = {
         description:
           "I played an active role in building and refining the user interfaces of the AiRX web platform — shipping new features, performance improvements and UX enhancements that pushed the product forward.",
         stack: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
+      },
+      {
+        slug: "everest",
+        title: "Everest",
+        category: "Cinematic scroll experience",
+        role: "Design & Development",
+        year: "2026",
+        description:
+          "An immersive one-page experience narrating a virtual climb to the summit of Everest. Designed and built from scratch with an altitude, temperature and oxygen HUD synced to real elevation data, cinematic camp-by-camp scroll scenes, sound design and TR/EN language support.",
+        stack: ["React", "Vite", "GSAP", "ScrollTrigger", "Lenis"],
       },
       {
         slug: "invatrix",
