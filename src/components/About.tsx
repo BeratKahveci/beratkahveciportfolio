@@ -92,7 +92,7 @@ export default function About({ dict }: { dict: Dict["about"] }) {
             >
               <div ref={imgRef} className="relative aspect-3/4 scale-110 will-change-transform">
                 <Image
-                  src="/portrait.jpg"
+                  src="/portrait-v2.jpg"
                   alt={person.name}
                   fill
                   sizes="(min-width: 1024px) 420px, 90vw"
